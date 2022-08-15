@@ -1,3 +1,14 @@
+# Fork vom 15.08.2022
+
+## Änderungen der Lizenzbedingungen durch OXID eSales
+
+Zitat von https://www.oxid-esales.com/ce-lizenzbedingungen-update/:
+
+**Ab wann treten die neuen Nutzungsbedingungen für die OXID eShop Community Edition in Kraft?**
+
+Die Lizenzänderung tritt zum Stichtag **15.08.2022** in Kraft.OXID Software, welche **nach dem Stichtag** bezogen wird, ist unter den neuen Nutzungsbedingungen lizensiert. Wenn man Software nach dem Stichtag bezieht und kommerziell einsetzt, willigt man damit in die Nutzungsbedingungen ein.
+
+
 OXID eShop
 ==========
 
